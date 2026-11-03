@@ -1,5 +1,5 @@
 import './q5.js';
-import palette from './palette.js'; 
+import palette from './palette.js';
 
 let nx = 0;
 let ny = 0;
